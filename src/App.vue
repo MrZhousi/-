@@ -5,7 +5,7 @@
     
     <router-link to="home">首页</router-link>
     <router-link to="cart">购物车</router-link>
-    <router-link to="my">我的</router-link>
+    <router-link to="my">我的111</router-link>
   </div>
 </template>
 
